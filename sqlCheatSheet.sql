@@ -1,0 +1,29 @@
+-- 1. Fundamentals
+-- What is a database?
+--	a database is an organized collection of data stored digitally using software. a database makes it easy for users to easily access, manipulate and manage data.
+-- What is DBMS?
+--	a DBMS is a software which is used to create, manage and manipulate databases. Database Management System helps provide an interface for users to perform above tasks and also helps in maintaining data consistency.
+-- What is a relation?
+--	a relation refers to an individual table in a database. it does not imply "relations between tables" as the name suggests. a table is a relation in a relation database as it stores the relation between data in a column-row format.
+-- What is RDBMS?
+--	RDBMS or Relational DataBase Management System is a software program used to manage relational databases. it is the basis of all modern database systems like MySQL, Oracle, Microsoft Access etc. it uses SQL queries to access data in the database.
+-- 	in RDBMS, data is represented in tuples(rows) - no two tuples should be identical. it generally contains multiple tables, each with a primary key
+-- What is Degree?
+--	degree is the total count of attributes in a table (columns)
+-- What is Cardinality?
+--	cardinality is the total count of tuples at any one time is call cardinality(rows).
+-- What is SQL?
+--	SQL or Structured Query Language is a programming language used for storing and managing data in an RDBMS. it is a standard language for all relational databases and enables a user to create, read, update and delete relational databases and tables.
+-- Different components of SQL?
+-- 	there are 5 components in SQL: DML, DDL, DCL, TCL, DQL.
+--	DDL: sql statements used to define the structure of database or schema. it deals with descriptions of database schema and used to create and modify structure of database objects. sql commands that come under ddl - CREATE, ALTER, DROP, TRUNCATE.
+-- 	DML:  
+
+-- 2. Tables and Fields
+-- What is a Table?
+-- What is a Field?
+-- Create a Table.
+--	a. By adding new fields
+-- 	b. By removing existing fields
+--	c. By modifying existing fields
+-- Drop a Table.
